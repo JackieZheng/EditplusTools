@@ -1,2 +1,2 @@
 # EditplusTools
-tools for editplus
+tools for editplus 
